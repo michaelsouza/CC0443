@@ -45,10 +45,13 @@ michael@ufc.br
 ![bg right height:100%](slide_01/map_full.png)
 
 ---
+<style scoped>section { justify-content: end; align-items: end; padding: 20px; }</style>
 
+## Centro de Ciências
 ![bg](slide_01/map_cc.png)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Objetivos
 
@@ -63,6 +66,8 @@ michael@ufc.br
 ![bg right:30%](slide_01/target_general.webp)
 
 ---
+<style scoped>section { justify-content: start; }</style>
+
 ## Objetivos
 
 *Apresentar ...*
@@ -75,7 +80,8 @@ michael@ufc.br
 
 ![bg right:30%](slide_01/target_general.webp)
 
---- 
+---
+<style scoped>section { justify-content: start; }</style>
 
 ## Objetivos
 
@@ -86,9 +92,10 @@ michael@ufc.br
     - Empresa Júnior 
     - Centro Acadêmico e Representação Estudantil
 
-![bg left:30%](slide_01/target_zoom.webp)
+![bg right:30%](slide_01/target_general.webp)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Objetivos
 
@@ -99,7 +106,7 @@ michael@ufc.br
     - Oportunidades de Estágios e Empregos, 
     - Bolsas de Estudo existentes.
 
-![bg left:30%](slide_01/target_zoom.webp)
+![bg right:30%](slide_01/target_general.webp)
 
 ---
 
@@ -122,6 +129,7 @@ michael@ufc.br
 
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Descrição do Conteúdo/Unidades (1/8)
 
@@ -139,6 +147,7 @@ michael@ufc.br
 ![bg left:15%](slide_01/puzzle.webp)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Descrição do Conteúdo/Unidades (2/8)
 
@@ -156,9 +165,9 @@ michael@ufc.br
 ![bg left:15%](slide_01/puzzle.webp)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Descrição do Conteúdo/Unidades (3/8)
-
    
 5. **Estágios, Empregos e Bolsas de Estudo**
    - Estágios, oportunidades de emprego e bolsas de estudo.
@@ -171,6 +180,7 @@ michael@ufc.br
 ![bg left:15%](slide_01/puzzle.webp)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Descrição do Conteúdo/Unidades (4/8)
    
@@ -190,6 +200,7 @@ michael@ufc.br
 ![bg left:15%](slide_01/puzzle.webp)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Descrição do Conteúdo/Unidades (5/8)
 
@@ -204,7 +215,7 @@ michael@ufc.br
 ![bg left:15%](slide_01/puzzle.webp)
 
 ---
-
+<style scoped>section { justify-content: start; }</style>
 ## Descrição do Conteúdo/Unidades (6/8)
 
    
@@ -221,6 +232,7 @@ michael@ufc.br
 ![bg left:15%](slide_01/puzzle.webp)
    
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Descrição do Conteúdo/Unidades (8/8)
 
@@ -248,7 +260,7 @@ Participação em aulas e apresentação de trabalhos em grupo.
 ![bg right:30%](slide_01/gangorra.webp)
 
 ---
-
+<style scoped>section { justify-content: start; }</style>
 ## Avaliação
 
 Baseada na participação em aula (frequência) e na qualidade dos trabalhos apresentados. 
@@ -274,6 +286,7 @@ O objetivo é analisar as ***semelhanças e diferenças*** entre os cursos, iden
 ![bg right:20%](slide_01/building_tower.jpg)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Etapas do projeto
 
@@ -288,16 +301,19 @@ O objetivo é analisar as ***semelhanças e diferenças*** entre os cursos, iden
 ![bg right:20%](slide_01/building_tower.jpg)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Etapas do projeto
 
-3. Análise e comparação dos currículos, estrutura e corpo docente.
+3. Análise e comparação das propostas curriculares.
+    - Organize as informações de forma clara e objetiva.
     - Identifique semelhanças e diferenças entre os cursos.
-    - Aponte pontos fortes e fracos de cada um.
+    - Aponte pontos fortes e fracos de cada um.    
 
 ![bg right:20%](slide_01/building_tower.jpg)
 
 ---
+<style scoped>section { justify-content: start; }</style>
 
 ## Etapas do projeto
 
