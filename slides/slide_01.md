@@ -10,6 +10,9 @@ style: |
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1rem;
   }
+  .yellow-bg {
+    background-color: #FFD700;
+  }
 ---
 # Seminários de Ciência de Dados
 
@@ -43,29 +46,41 @@ michael@ufc.br
 
 ---
 
-## Centro de Ciências
-![bg center:100%](slide_01/map_cc.png)
+![bg](slide_01/map_cc.png)
 
 ---
 
-## Objetivos Gerais
+## Objetivos
 
-* Apresentar a estrutura universitária, 
-* Visão geral sobre a Ciência de Dados,
-* Apresentar a proposta do 
-Bacharelado em Ciência de Dados da UFC,
-* Apresentar as áreas de atuação, os estágios e bolsas de estudo.
+*Apresentar ...*
+
+- a estrutura universitária, 
+    - Pró-Reitorias
+    - Centro de Ciências
+    - Departamentos 
+    - Corpo Docente
+
+![bg right:30%](slide_01/target_general.webp)
+
+---
+## Objetivos
+
+*Apresentar ...*
+
+- o Projeto Pedagógico de Curso (PPC)
+    - a Estrutura Curricular
+    - Estágio
+    - Monografia
+    - Atividades Complementares
 
 ![bg right:30%](slide_01/target_general.webp)
 
 --- 
-## Objetivos Específicos (1/2)
 
-*Especificamente ...* 
-- a Estrutura Curricular do 
-Bacharelado em Ciência de Dados,
+## Objetivos
+
+*Apresentar ...*
 - A organização universitária 
-    - Pró-Reitorias, o Centro de Ciências, os Departamentos e o Corpo Docente, ... 
 - Políticas de apoio ao estudante
     - Pró-Reitoria de Assuntos Estudantis (PRAE), ]
     - Empresa Júnior 
@@ -75,8 +90,9 @@ Bacharelado em Ciência de Dados,
 
 ---
 
-## Objetivos Específicos (2/2)
+## Objetivos
 
+*Apresentar ...*
 - Os programas de Pós-graduação (DEMA, DC). 
 - Profissão do Cientista de Dados
     - Áreas de Atuação,
@@ -255,6 +271,8 @@ Elaboração de ***relatório comparando a proposta do Bacharelado em Ciência d
 
 O objetivo é analisar as ***semelhanças e diferenças*** entre os cursos, identificando ***pontos fortes e fracos***. 
 
+![bg right:20%](slide_01/building_tower.jpg)
+
 ---
 
 ## Etapas do projeto
@@ -267,7 +285,7 @@ O objetivo é analisar as ***semelhanças e diferenças*** entre os cursos, iden
     - Estrutura curricular, corpo docente, áreas de pesquisa, etc.
     - Documente as fontes de informação.   
 
-![bg right:30% height:250px](slide_01/bu
+![bg right:20%](slide_01/building_tower.jpg)
 
 ---
 
@@ -277,20 +295,33 @@ O objetivo é analisar as ***semelhanças e diferenças*** entre os cursos, iden
     - Identifique semelhanças e diferenças entre os cursos.
     - Aponte pontos fortes e fracos de cada um.
 
+![bg right:20%](slide_01/building_tower.jpg)
+
+---
+
+## Etapas do projeto
+
 4. Preparação da apresentação oral e do relatório escrito.
-    - Organize as informações coletadas de forma clara e objetiva.
-    - O relatório deve ter uma introdução, desenvolvimento e conclusão. 
-    - Deve conter referências bibliográficas e, no mínimo, 5 páginas.
+    - Organize as informações de forma clara e objetiva.
+    - Faça uma introdução, desenvolvimento e conclusão. 
+    - O relatório deve ter entre 5 e 10 páginas.
+    - Insiras as referências bibliográficas.
     - Prepare slides para a apresentação.
     - Duração de 15 a 20 minutos e, no máximo, 10 slides.
+
+![bg right:20%](slide_01/building_tower.jpg)
 
 ---
 
 ## Etapas do projeto
 5. Apresentação dos resultados em sala de aula.
-    - Apresente as conclusões do seminário de forma clara e objetiva.
-    - Esteja preparado para responder perguntas e discutir os resultados.    
+    - Seja claro e objetivo.
+    - Esteja preparado para responder perguntas e discutir/conversar sobre os resultados.    
+
+![bg right:20%](slide_01/building_tower.jpg)
 
 ---
 
+<!-- backgroundColor: orange -->
+<!-- _color: black -->
 # Dúvidas?
