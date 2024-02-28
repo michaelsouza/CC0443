@@ -4,6 +4,8 @@ theme: default
 author: Michael Souza
 footer: 'CC0443 - Seminários de Ciência de Dados'
 math: mathjax
+backgroundColor: #fff
+paginate: true
 style: |
   .columns {
     display: grid;
@@ -22,7 +24,7 @@ style: |
 michael@ufc.br
 (85) 99821 - 9955
 
-![bg left:30% height:150px](slide_01/logo_ufc.png)
+![bg right:30% height:600px](slide_01/logo_QR.png)
 
 ---
 
