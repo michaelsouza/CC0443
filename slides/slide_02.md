@@ -36,13 +36,12 @@ michael@ufc.br
 
 ## Histórico
 
-![bg right width:100%](figures/mi_trend.png)
 
 O curso de Bacharelado em Ciência de Dados da UFC é uma reformulação do curso de Bacharelado em Matemática Industrial, que foi criado em 2010.
 
----
+**Não existem dois curso, mas sim um curso que foi reformulado.**
 
-![bg center width:80%](figures/mi_vagas.png)
+![bg left width:100%](figures/mi_vagas.png)
 
 ---
 
@@ -54,13 +53,45 @@ O curso de Bacharelado em Ciência de Dados da UFC é uma reformulação do curs
 
 ---
 
-## Proposta
+![bg center height:80%](figures/mi_trend.png)
+
+---
+<style scoped>section { justify-content: start; }</style>
+### Como os alunos se identificavam?
+
+![bg center width:80%](figures/linkedin_alunos.png)
+
+---
 
 ![bg center width:80%](figures/cd_horas.png)
 
 ---
 
-![bg center width:80%](figures/cd_disciplinas.png)
+![bg center height:80%](figures/cd_grade_edited.png)
+
+---
+
+# Atividades Complementares
+
+---
+
+
+A Resolução N°07/CEPE, de 17 de Junho de 2005, estabelece que as ***Atividades Complementares*** são estratégias que integram teoria e prática, expandindo conhecimentos e habilidades dos estudantes. 
+
+Essas atividades, de ***iniciativa livre*** dos alunos, devem totalizar 64 horas ou 04 créditos. 
+
+---
+## Quais são as possíveis atividades complementares?
+
+1. Atividades de Iniciação à Docência, à Pesquisa e/ou Extensão (até 64 horas);
+2. Atividades artísticas, culturais e/ou esportivas (até 32 horas);
+3. Atividades de participação e/ou organização de eventos (até 32 horas);
+4. Atividades de iniciação profissional (ensino, estágio, DUAL) (até 32 horas);
+5. Produção técnica/científica (artigo, resumo em congresso) (até 64 horas);
+6. Vivências ou experiência em gestão (colegiados, CA, DCE) (até 32 horas);
+7. Cursos de formação (idiomas, workshops, mini-cursos) (até 32 horas);
+
+---
 
 <!-- backgroundColor: orange -->
 <!-- _color: black -->
