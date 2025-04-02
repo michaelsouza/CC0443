@@ -30,7 +30,7 @@ michael@ufc.br
 
 ## Carga Horária e Encontros
 
-32h práticas, às segundas das 14h às 16h.
+32h teóricas, quartas das 14h às 16h.
 
 ## Justificativa
 
