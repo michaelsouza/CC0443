@@ -68,6 +68,17 @@ michael@ufc.br
 
 ---
 
+### **E os Detectores de IA?**
+
+*   Ferramentas como **Turnitin, GPTZero e ZeroGPT** existem para detectar texto de IA.
+*   **CUIDADO**: A **precisão e confiabilidade** dessas ferramentas são **altamente contestadas**.
+*   **Falsos Positivos**: Podem erroneamente classificar texto humano (especialmente de não-nativos em inglês) como gerado por IA.
+*   O foco das instituições deve ser na **educação sobre boas práticas**, e não apenas na punição baseada em ferramentas falíveis.
+
+![bg left:30% width:100%](slide_06/ai-detectors.png)
+
+---
+
 ## Uso Responsável da IAG
 
 ---
@@ -192,17 +203,6 @@ A IAG é uma **ferramenta de auxílio**, não um substituto para o seu intelecto
 *   **Mantenha sua voz autoral**: A escrita acadêmica é uma habilidade fundamental a ser desenvolvida.
 
 ![bg right:30% width:100%](slide_06/escrita.png)
-
----
-
-### **E os Detectores de IA?**
-
-*   Ferramentas como **Turnitin, GPTZero e ZeroGPT** existem para detectar texto de IA.
-*   **CUIDADO**: A **precisão e confiabilidade** dessas ferramentas são **altamente contestadas**.
-*   **Falsos Positivos**: Podem erroneamente classificar texto humano (especialmente de não-nativos em inglês) como gerado por IA.
-*   O foco das instituições deve ser na **educação sobre boas práticas**, e não apenas na punição baseada em ferramentas falíveis.
-
-![bg left:30% width:100%](slide_06/ai-detectors.png)
 
 ---
 
